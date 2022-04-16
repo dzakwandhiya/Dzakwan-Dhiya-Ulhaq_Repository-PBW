@@ -1,0 +1,67 @@
+a:link, a:visited{
+    color: white;
+    background-color: cornflowerblue;
+    padding: 13px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active{
+    background-color: royalblue;
+}
+h1{
+   color: whitesmoke; 
+   text-align: center;
+}
+hr{
+    color: whitesmoke;
+}
+ol, ul{
+    font-size: larger;
+}
+li{
+    color: whitesmoke;
+}
+table, th, td{
+
+    border: 3px solid whitesmoke;
+    border-collapse: collapse;
+}
+.biodata{
+    padding-left: 3cm; 
+    padding-right: 3cm;
+}
+.riwayat-sekolah{
+    padding-left: 3cm; 
+    padding-right: 3cm;
+}
+.keahlian{
+    padding-left: 3cm; 
+    padding-right: 3cm;
+}
+
+table{
+    width: 100%;
+}
+th, td{
+    padding: 15px;
+}
+th{
+    color: whitesmoke;
+    text-align: left;
+}
+p{
+    color: whitesmoke; 
+    text-align: center;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav{
+    text-align: center;
+}
+.Ifr{
+    padding-left: 3cm; padding-right: 3cm;
+}
